@@ -6,7 +6,6 @@ Welcome to the **Stock Market App**! This web application allows users to explor
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 
 ## Features
 
