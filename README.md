@@ -1,22 +1,18 @@
-# Stock Market App
+# Super Over Cricket
 
-Welcome to the **Stock Market App**! This web application allows users to explore stock prices, manage their portfolio, and engage in simulated trading. Built with a modern tech stack, this app aims to provide a user-friendly experience for anyone interested in the stock market.
+Welcome to the **Super Over Cricket**! This web application allows users to engage in a thrilling cricket simulation game against the computer. Built with a simple tech stack, this game aims to provide an entertaining experience for cricket fans.
 
 ## Table of Contents
-
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
 ## Features
-
-- User authentication with a login system.
-- Real-time stock price fetching from CSV files.
-- User-friendly interface for managing a portfolio.
-- Detailed company information accessible through dedicated pages.
-- Dynamic updates for stock prices.
+- Two phases of gameplay: batting and bowling.
+- User-friendly interface for selecting runs.
+- Real-time feedback on scores and game status.
+- Session management to keep track of scores and game state.
+- Dynamic updates on batting and bowling phases.
 
 ## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Data Storage:** CSV files for stock prices
+- **Frontend**: HTML, CSS, PHP
+- **Backend**: PHP (for server-side logic and session management)
